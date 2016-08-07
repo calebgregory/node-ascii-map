@@ -1,0 +1,24 @@
+{
+  "name": "node-ascii-map",
+  "version": "1.0.0",
+  "description": "An ASCII representation of a geographic location.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calebgregory/node-ascii-map.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/calebgregory/node-ascii-map/issues"
+  },
+  "homepage": "https://github.com/calebgregory/node-ascii-map#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {}
+}
